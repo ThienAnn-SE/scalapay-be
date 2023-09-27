@@ -1,0 +1,6 @@
+app:
+  scala-pay:
+    authorization: "Bearer qhtfs87hjnc12kkos"
+    url:
+      order:
+        create: "https://integration.api.scalapay.com/v2/orders"
